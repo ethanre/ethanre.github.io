@@ -1,4 +1,18 @@
-body {
-    background:#0099ff;
-font-family: arial;
+body: {
+    margin: 0;
+}    
+
+
+header {
+    background: #999;
+    color: white;
+    margin: 0;
 }
+
+header h1 {
+    margin: 0;
+}
+
+nav ul{
+    margin: 0;
+}    
